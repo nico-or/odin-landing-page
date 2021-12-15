@@ -125,3 +125,13 @@ button {
     font-weight: bold;
     color: #1f2937;
 }
+
+.card img {
+    height: 150px;
+    border: solid #3882f6 3px;
+    border-radius: 8px;
+}
+
+.card .text {
+    text-align: center;
+}
