@@ -1,6 +1,13 @@
 * {
     font-family: sans-serif;
 }
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -19,9 +26,6 @@
 }
 
 .footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     color: white;
     padding: 2em 0;
 }
