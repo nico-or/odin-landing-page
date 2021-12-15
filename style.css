@@ -70,3 +70,27 @@
     font-weight: bold;
     text-align: right;
 }
+
+.call button, .call {
+    background-color: #3882f6;
+    color: white;
+}
+
+.call {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 120px;
+    padding: 40px 80px;
+    border-radius: 8px;
+}
+
+.call .title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.call button {
+    padding: 0px 40px;
+    border: solid white 1px;
+    border-radius: 8px;
+}
