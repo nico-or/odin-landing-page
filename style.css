@@ -74,9 +74,14 @@
     text-align: right;
 }
 
-.call button, .call {
+button, .call {
     background-color: #3882f6;
     color: white;
+}
+
+button {
+    padding: 10px 40px;
+    border-radius: 8px;
 }
 
 .call {
@@ -93,7 +98,6 @@
 }
 
 .call button {
-    padding: 0px 40px;
     border: solid white 1px;
-    border-radius: 8px;
 }
+
