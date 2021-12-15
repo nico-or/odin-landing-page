@@ -135,3 +135,8 @@ button {
 .card .text {
     text-align: center;
 }
+
+.gallery {
+    display: flex;
+    gap: 40px;
+}
