@@ -141,3 +141,7 @@ button {
     display: flex;
     gap: 40px;
 }
+
+.hero-wrapper button {
+    border-style: none;
+}
